@@ -12,7 +12,7 @@ const server = http.createServer((req, res) => {
             <title>First Jenkins Node.js App</title>
         </head>
         <body>
-            <h1>Hello from Node.js!</h1>
+            <h1>Hello from Manual Node.js!</h1>
             <p>GITGITGITGITGIT</p>
             <p>NO-FURTHER-INTERACTIONS!! This application is deployed by Jenkins.</p>
             <p>Server: 192.168.0.111</p>
