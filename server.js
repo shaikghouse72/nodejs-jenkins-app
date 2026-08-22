@@ -13,6 +13,7 @@ const server = http.createServer((req, res) => {
         </head>
         <body>
             <h1>Hello from Node.js!</h1>
+            <p>Picked up from GIT now</p>
             <p>This application is deployed by Jenkins.</p>
             <p>Server: 192.168.0.111</p>
         </body>
