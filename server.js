@@ -14,7 +14,7 @@ const server = http.createServer((req, res) => {
         <body>
             <h1>Hello from Manual Node.js!</h1>
             <p>GITGITGITGITGIT</p>
-            <p>Not reflecting this change!! This application is >deployed by Jenkins.</p>
+            <p>now reflecting the latest change!! This application is >deployed by Jenkins.</p>
             <p>Server: 192.168.0.111</p>
             <p>NEW CHANGE - Jenkins deployment test successful!</p>
         </body>
