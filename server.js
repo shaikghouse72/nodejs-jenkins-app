@@ -13,14 +13,12 @@ const server = http.createServer((req, res) => {
         </head>
         <body>
             <h1>Hello from Node.js!</h1>
-<<<<<<< HEAD
             <p>Picked up from GIT now</p>
+            <p>Picked up from server now</p>
             <p>This application is deployed by Jenkins.</p>
-=======
-	    <p>Picked up from server now</p>
-            <p>GODD JOB!!This application is deployed by Jenkins.</p>
->>>>>>> 37027d5 (update server.js)
+            <p>GODD JOB!! This application is deployed by Jenkins.</p>
             <p>Server: 192.168.0.111</p>
+            <p>NEW CHANGE - Jenkins deployment test successful!</p>
         </body>
         </html>
     `);
