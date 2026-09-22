@@ -1,13 +1,20 @@
 {
   "name": "nodejs-jenkins-app",
-  "version": "1.0.0",
-  "description": "",
+  "version": "2.0.0",
+  "description": "Runtime-aware Node.js dashboard for Docker and Kubernetes",
   "main": "server.js",
   "scripts": {
-  "start": "node server.js",
-  "test": "node test.js"
+    "start": "node server.js",
+    "test": "node test.js"
   },
-  "keywords": [],
+  "keywords": [
+    "nodejs",
+    "docker",
+    "kubernetes",
+    "jenkins",
+    "runtime",
+    "monitoring"
+  ],
   "author": "",
   "license": "ISC"
 }
